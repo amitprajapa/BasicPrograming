@@ -18,8 +18,6 @@ public class ArmStrongNumber {
 		}
 	}
 
-		
-		
 		public static int pow(int n, int p)
 		{
 			int res=1;
